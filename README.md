@@ -15,9 +15,9 @@ Here I will put explainations and firmware source code on how I'm making a 3D pr
   - [ ] Find a way to power all components : 30/100
 
 ## More specific files about :
-  [desktop app]()
+  [desktop app](/desktop-app.md)
   ---
-  [printer firmware]()
+  [printer firmware](/printer-firmware.md)
   ---
-  [hardware build]()
+  [hardware build](/hardware-build.md)
   ---
