@@ -16,5 +16,8 @@ Here I will put explainations and firmware source code on how I'm making a 3D pr
 
 ## More specific files about :
   [desktop app]()
+  ---
   [printer firmware]()
+  ---
   [hardware build]()
+  ---
