@@ -9,10 +9,10 @@ Here I will put explainations and firmware source code on how I'm making a 3D pr
 
 ## Task list :
   - [ ] Get 3 axis : 1/3
-  - [ ] Make printer firmware
-  - [ ] Make desktop app
-  - [ ] Find a good 3D printer head
-  - [ ] Find a way to power all components
+  - [ ] Make printer firmware : 1/100
+  - [ ] Make desktop app : 1/100
+  - [ ] Find a good 3D printer head : 0/100
+  - [ ] Find a way to power all components : 30/100
 
 ## More specific files about :
   [desktop app]()
