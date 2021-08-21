@@ -15,6 +15,11 @@ The app basically process G-code and send motor's running time to the arduino.
 	
 2. calculate <img src="https://render.githubusercontent.com/render/math?math=\Delta"> the difference between the last and future position (tuple).
 3. calculate <img src="https://render.githubusercontent.com/render/math?math=t">the time of powering for each axis's motor with (<img src="https://render.githubusercontent.com/render/math?math=tz"> is 0 if no slice change):
+	<br>
 	<img src="https://render.githubusercontent.com/render/math?math=tx = v*\Delta{x}">
+	<br>
 	<img src="https://render.githubusercontent.com/render/math?math=ty=v*\Delta{y}">
+	<br>
 	<img src="https://render.githubusercontent.com/render/math?math=tz = v*\Delta{z}">
+	
+4. send the results to the arduino
