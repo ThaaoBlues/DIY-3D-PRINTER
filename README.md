@@ -13,3 +13,8 @@ Here I will put explainations and firmware source code on how I'm making a 3D pr
   - [ ] Make desktop app
   - [ ] Find a good 3D printer head
   - [ ] Find a way to power all components
+
+## More specific files about :
+  [desktop app]()
+  [printer firmware]()
+  [hardware build]()
