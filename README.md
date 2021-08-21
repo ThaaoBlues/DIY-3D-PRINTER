@@ -7,7 +7,7 @@ Here I will put explainations and firmware source code on how I'm making a 3D pr
   - One computer with Python and arduino IDE installed
   - I will add the rest as I complete the building of the printer.
 
-##Task list :
+## Task list :
   [ ] Get 3 axis : 1/3
   [ ] Make printer firmware
   [ ] Make desktop app
