@@ -8,8 +8,8 @@ Here I will put explainations and firmware source code on how I'm making a 3D pr
   - I will add the rest as I complete the building of the printer.
 
 ## Task list :
-  [ ] Get 3 axis : 1/3
-  [ ] Make printer firmware
-  [ ] Make desktop app
-  [ ] Find a good 3D printer head
-  [ ] Find a way to power all components
+  - [ ] Get 3 axis : 1/3
+  - [ ] Make printer firmware
+  - [ ] Make desktop app
+  - [ ] Find a good 3D printer head
+  - [ ] Find a way to power all components
